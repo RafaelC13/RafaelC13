@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a computer engineering student in my first year<br>My goal is to create my first game
+Hii my name is Rafael, i'm 18 years old,i live in Portugal and i'm a computer engineering student in my first year<br>My goal is to create my first little game
 
 
 # 💻 Tech Stack:
