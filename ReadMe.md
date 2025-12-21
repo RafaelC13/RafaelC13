@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hii my name is Rafael, i'm 18 years old,i live in Portugal and i'm a computer engineering student in my first year<br>My goal is to work in a big company
+Hii my name is Rafael, i'm 20 years old,i live in Portugal and i'm a computer engineering student in my third year<br>My goal is to work in a big company
 
 
 # 💻 Tech Stack:
